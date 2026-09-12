@@ -1,0 +1,4 @@
+https://clinicaltrials.gov/api/rss?aggFilters=phase%3A3+4%2Cstatus%3Aact+rec&dateField=LastUpdatePostDate
+https://clinicaltrials.gov/api/rss?aggFilters=phase%3A3+4%2Cstatus%3Aact+rec&dateField=StudyFirstPostDate
+https://clinicaltrials.gov/api/rss?cond=Lynch+Syndrome&aggFilters=status%3Arec&dateField=LastUpdatePostDate
+https://clinicaltrials.gov/api/rss?cond=Alport+Syndrome%2C+X-Linked&dateField=StudyFirstPostDate

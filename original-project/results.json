@@ -1,0 +1,16 @@
+{
+  "gene": "MLH1",
+  "total": 1,
+  "variants": [
+    {
+      "Variant ID": "rs1540354",
+      "Gene": "MLH1",
+      "Type": "SNV",
+      "Your Data": "A/T",
+      "Risk Version": "Benign",
+      "Your Status": "Benign",
+      "Condition": "Lynch syndrome",
+      "Evidence": "High (R)"
+    }
+  ]
+}
