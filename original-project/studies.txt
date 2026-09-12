@@ -1,0 +1,2 @@
+https://clinicaltrials.gov/api/rss?cond=Lynch+Syndrome
+https://clinicaltrials.gov/api/rss?cond=Alport+Syndrome%2C+X-Linked

@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# My Doctor Viewer — productionized app
+node_modules/
+frontend/dist/
+.env.*
+!.env.example

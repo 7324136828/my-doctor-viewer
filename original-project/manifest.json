@@ -1,0 +1,944 @@
+[
+  {
+    "source_file": "AVS - Outpatient Mar 27, 2026.txt",
+    "chunk_file": "AVS - Outpatient Mar 27, 2026.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Document (1).txt",
+    "chunk_file": "Document (1).txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Document.txt",
+    "chunk_file": "Document.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "F9CE780A4E4848F781CA0446EE3AB6F5.txt",
+    "chunk_file": "F9CE780A4E4848F781CA0446EE3AB6F5.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_1.txt",
+    "chunk_index": 1,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_2.txt",
+    "chunk_index": 2,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_3.txt",
+    "chunk_index": 3,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_4.txt",
+    "chunk_index": 4,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_5.txt",
+    "chunk_index": 5,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_6.txt",
+    "chunk_index": 6,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_7.txt",
+    "chunk_index": 7,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_8.txt",
+    "chunk_index": 8,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_9.txt",
+    "chunk_index": 9,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx 1.txt",
+    "chunk_file": "GetPDFaspx 1_10.txt",
+    "chunk_index": 10,
+    "total_chunks": 10
+  },
+  {
+    "source_file": "GetPDFaspx.txt",
+    "chunk_file": "GetPDFaspx_1.txt",
+    "chunk_index": 1,
+    "total_chunks": 3
+  },
+  {
+    "source_file": "GetPDFaspx.txt",
+    "chunk_file": "GetPDFaspx_2.txt",
+    "chunk_index": 2,
+    "total_chunks": 3
+  },
+  {
+    "source_file": "GetPDFaspx.txt",
+    "chunk_file": "GetPDFaspx_3.txt",
+    "chunk_index": 3,
+    "total_chunks": 3
+  },
+  {
+    "source_file": "GraphLabTestResults-04-22-2026.txt",
+    "chunk_file": "GraphLabTestResults-04-22-2026.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Immunization.txt",
+    "chunk_file": "Immunization.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Immunizations - Student Health and Counseling Services.txt",
+    "chunk_file": "Immunizations - Student Health and Counseling Services.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Message Detail 48584993.txt",
+    "chunk_file": "Message Detail 48584993.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Message Detail 8484.txt",
+    "chunk_file": "Message Detail 8484.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Message Details - Student Health and Counseling Services.txt",
+    "chunk_file": "Message Details - Student Health and Counseling Services.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 1.txt",
+    "chunk_file": "MyChart - Past Visit Details 1.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 2.txt",
+    "chunk_file": "MyChart - Past Visit Details 2.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 3.txt",
+    "chunk_file": "MyChart - Past Visit Details 3.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 38472192.txt",
+    "chunk_file": "MyChart - Past Visit Details 38472192.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 384838.txt",
+    "chunk_file": "MyChart - Past Visit Details 384838.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 4.txt",
+    "chunk_file": "MyChart - Past Visit Details 4.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 5.txt",
+    "chunk_file": "MyChart - Past Visit Details 5.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 6.txt",
+    "chunk_file": "MyChart - Past Visit Details 6.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 7.txt",
+    "chunk_file": "MyChart - Past Visit Details 7.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details 8.txt",
+    "chunk_file": "MyChart - Past Visit Details 8.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Past Visit Details.txt",
+    "chunk_file": "MyChart - Past Visit Details.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 10.txt",
+    "chunk_file": "MyChart - Test Details 10.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 11.txt",
+    "chunk_file": "MyChart - Test Details 11.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 2.txt",
+    "chunk_file": "MyChart - Test Details 2.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 3.txt",
+    "chunk_file": "MyChart - Test Details 3.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 384939.txt",
+    "chunk_file": "MyChart - Test Details 384939.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 4.txt",
+    "chunk_file": "MyChart - Test Details 4.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 47843732.txt",
+    "chunk_file": "MyChart - Test Details 47843732.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 484939.txt",
+    "chunk_file": "MyChart - Test Details 484939.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 5.txt",
+    "chunk_file": "MyChart - Test Details 5.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 6.txt",
+    "chunk_file": "MyChart - Test Details 6.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 7.txt",
+    "chunk_file": "MyChart - Test Details 7.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 8.txt",
+    "chunk_file": "MyChart - Test Details 8.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details 9.txt",
+    "chunk_file": "MyChart - Test Details 9.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "MyChart - Test Details.txt",
+    "chunk_file": "MyChart - Test Details.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Note from Care Team 4748319731.txt",
+    "chunk_file": "NYU Langone Health MyChart - Note from Care Team 4748319731.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Note from Care Team 4849377485.txt",
+    "chunk_file": "NYU Langone Health MyChart - Note from Care Team 4849377485.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Note from Care Team 48756574933.txt",
+    "chunk_file": "NYU Langone Health MyChart - Note from Care Team 48756574933.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Note from Care Team 5895739392.txt",
+    "chunk_file": "NYU Langone Health MyChart - Note from Care Team 5895739392.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Note from Care Team 748412828.txt",
+    "chunk_file": "NYU Langone Health MyChart - Note from Care Team 748412828.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Note from Care Team 74883647723.txt",
+    "chunk_file": "NYU Langone Health MyChart - Note from Care Team 74883647723.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Note from Care Team 844939394.txt",
+    "chunk_file": "NYU Langone Health MyChart - Note from Care Team 844939394.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Note from Care Team 849474859.txt",
+    "chunk_file": "NYU Langone Health MyChart - Note from Care Team 849474859.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 384844.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 384844.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 387483929.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 387483929.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 447839.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 447839.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 448475834.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 448475834.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 457833617734.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 457833617734.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 45783374673.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 45783374673.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 4747838328.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 4747838328.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 47483923.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 47483923.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 47573647538.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 47573647538.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 47578336464.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 47578336464.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 47841274721.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 47841274721.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 47848337381.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 47848337381.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 478584383.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 478584383.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 484637182743.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 484637182743.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 5748364657.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 5748364657.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 575738384.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 575738384.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 575834746.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 575834746.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Past Visit Details 74748833.txt",
+    "chunk_file": "NYU Langone Health MyChart - Past Visit Details 74748833.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 44727164.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 44727164.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4573885949.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4573885949.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4585739393.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4585739393.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4737164643.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4737164643.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4756182474.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4756182474.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4756388345.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4756388345.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4757183461.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4757183461.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 47572824.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 47572824.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4757383819.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4757383819.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 47573893184.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 47573893184.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4757838445.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4757838445.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 47586573731.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 47586573731.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4775127364.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4775127364.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4848859493.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4848859493.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 4857832945.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 4857832945.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 485843738384.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 485843738384.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 53881754331.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 53881754331.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 56361546.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 56361546.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5713785853.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5713785853.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5737465721.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5737465721.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5737567338.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5737567338.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57375782183.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57375782183.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 573818548534.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 573818548534.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5738185738.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5738185738.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5738218445.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5738218445.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 573838844.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 573838844.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5738388484.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5738388484.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57385673731.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57385673731.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57386531.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57386531.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57387583913.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57387583913.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5738775383.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5738775383.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 573885833.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 573885833.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5738931945.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5738931945.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 574736475.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 574736475.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 574738183.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 574738183.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 574738384.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 574738384.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 574738384757.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 574738384757.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 574783845.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 574783845.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57483646.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57483646.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 574838184.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 574838184.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 574838599434.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 574838599434.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 575738184.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 575738184.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 575761828.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 575761828.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57578381384.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57578381384.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57578383894.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57578383894.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 575783855.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 575783855.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57583376456.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57583376456.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 575838348534.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 575838348534.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 575839394.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 575839394.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57588349334.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57588349334.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 575883959534.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 575883959534.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 576e21834.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 576e21834.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 577348383434.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 577348383434.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57738675.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57738675.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 577438184.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 577438184.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5775838194.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5775838194.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5781274585.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5781274585.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5783189394.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5783189394.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 578375833.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 578375833.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 57875r821134.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 57875r821134.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 583575839484.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 583575839484.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 58381959433.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 58381959433.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 584837655.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 584837655.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 584838393.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 584838393.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 5858393944.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 5858393944.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 587365731845.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 587365731845.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 757383848.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 757383848.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "NYU Langone Health MyChart - Test Details 85748383844.txt",
+    "chunk_file": "NYU Langone Health MyChart - Test Details 85748383844.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Scan - CBC WITH DIFFERENTIAL - Jul 8, 2025.txt",
+    "chunk_file": "Scan - CBC WITH DIFFERENTIAL - Jul 8, 2025.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Scan - LAB PATHOLOGY - Aug 9, 2018.txt",
+    "chunk_file": "Scan - LAB PATHOLOGY - Aug 9, 2018.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Scan - PATHOLOGY TISSUE - Mar 7, 2025.txt",
+    "chunk_file": "Scan - PATHOLOGY TISSUE - Mar 7, 2025.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "Scan - RADIOLOGY HERITAGE DOCUMENT - Jul 26, 2019.txt",
+    "chunk_file": "Scan - RADIOLOGY HERITAGE DOCUMENT - Jul 26, 2019.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "YN Labs 5-28-26.txt",
+    "chunk_file": "YN Labs 5-28-26_1.txt",
+    "chunk_index": 1,
+    "total_chunks": 4
+  },
+  {
+    "source_file": "YN Labs 5-28-26.txt",
+    "chunk_file": "YN Labs 5-28-26_2.txt",
+    "chunk_index": 2,
+    "total_chunks": 4
+  },
+  {
+    "source_file": "YN Labs 5-28-26.txt",
+    "chunk_file": "YN Labs 5-28-26_3.txt",
+    "chunk_index": 3,
+    "total_chunks": 4
+  },
+  {
+    "source_file": "YN Labs 5-28-26.txt",
+    "chunk_file": "YN Labs 5-28-26_4.txt",
+    "chunk_index": 4,
+    "total_chunks": 4
+  },
+  {
+    "source_file": "b27d519a-5e0d-4e70-a379-462aaa015b96.txt",
+    "chunk_file": "b27d519a-5e0d-4e70-a379-462aaa015b96.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "bdbe9ad5-eaa7-404c-b0e5-8708fc4925c1.txt",
+    "chunk_file": "bdbe9ad5-eaa7-404c-b0e5-8708fc4925c1.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "c5c7bb72-6e24-4817-a8c5-7ffa6ccdf246.txt",
+    "chunk_file": "c5c7bb72-6e24-4817-a8c5-7ffa6ccdf246.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "labreport (1).txt",
+    "chunk_file": "labreport (1).txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "labreport (2).txt",
+    "chunk_file": "labreport (2).txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "labreport (3).txt",
+    "chunk_file": "labreport (3).txt",
+    "chunk_index": null,
+    "total_chunks": null
+  },
+  {
+    "source_file": "labreport.txt",
+    "chunk_file": "labreport.txt",
+    "chunk_index": null,
+    "total_chunks": null
+  }
+]
