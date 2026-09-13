@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Cross-platform automated setup orchestrator.
 
-Validates prerequisites, creates the .venv virtual environment, installs
+Validates prerequisites, uses the active environment or creates .venv, installs
 backend Python dependencies and frontend npm dependencies, and initialises
 .env from .env.example. Invoked by setup.bat / setup.sh.
 """
@@ -32,6 +32,14 @@ def check_prerequisites() -> None:
 
 
 def create_virtualenv() -> Path:
+    if (
+        sys.prefix != getattr(sys, "base_prefix", sys.prefix)
+        or os.environ.get("VIRTUAL_ENV")
+        or os.environ.get("CONDA_PREFIX")
+    ):
+        log(f"Using active Python environment at {sys.prefix}...")
+        return Path(sys.executable)
+
     log(f"Configuring Python virtual environment at {VENV_DIR}...")
     if not VENV_DIR.exists():
         import venv
