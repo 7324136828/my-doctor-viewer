@@ -31,7 +31,7 @@ def check_prerequisites() -> None:
     print(f"  Python {sys.version.split()[0]}  |  npm found")
 
 
-def create_virtualenv() -> tuple[Path, Path]:
+def create_virtualenv() -> Path:
     log(f"Configuring Python virtual environment at {VENV_DIR}...")
     if not VENV_DIR.exists():
         import venv
@@ -40,19 +40,18 @@ def create_virtualenv() -> tuple[Path, Path]:
 
     if os.name == "nt":
         py_bin = VENV_DIR / "Scripts" / "python.exe"
-        pip_bin = VENV_DIR / "Scripts" / "pip.exe"
     else:
         py_bin = VENV_DIR / "bin" / "python"
-        pip_bin = VENV_DIR / "bin" / "pip"
-    return py_bin, pip_bin
+    return py_bin
 
 
-def install_backend(pip_bin: Path) -> None:
+def install_backend(py_bin: Path) -> None:
     log("Installing backend dependencies...")
-    subprocess.check_call([str(pip_bin), "install", "--upgrade", "pip"])
+    pip_cmd = [str(py_bin), "-m", "pip"]
+    subprocess.check_call([*pip_cmd, "install", "--upgrade", "pip"])
     req_file = BACKEND_DIR / "requirements.txt"
     if req_file.exists():
-        subprocess.check_call([str(pip_bin), "install", "-r", str(req_file)])
+        subprocess.check_call([*pip_cmd, "install", "-r", str(req_file)])
 
 
 def install_frontend() -> None:
@@ -72,8 +71,8 @@ def setup_env() -> None:
 
 def main() -> None:
     check_prerequisites()
-    _, pip_bin = create_virtualenv()
-    install_backend(pip_bin)
+    py_bin = create_virtualenv()
+    install_backend(py_bin)
     install_frontend()
     setup_env()
     log("Setup completed successfully!")
